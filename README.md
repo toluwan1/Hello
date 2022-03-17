@@ -1,2 +1,3 @@
 # Hello
-My first repo
+Myfirstrepo
+journey just come
